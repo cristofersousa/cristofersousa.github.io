@@ -9,7 +9,8 @@ categories: jekyll
 
 ### Olá Mundo, Hello Jekyll!
 Finalmente, criei coragem para criar um blog, há tempos queria fazer isso mais a falta de "tempo" não permitia isto! =B
-Poderia ter adotado o [CMS - Wordpress](https://br.wordpress.com/) mas estamos aqui nessa vida para nos desafiarmos, não é mesmo!?
+
+Poderia ter adotado o [CMS - Wordpress](https://br.wordpress.com/) mas estamos aqui nesta vida para nos desafiarmos, não é mesmo!?
 
 Então, achei que seria uma excelente oportunidade para começar algo novo, no intuito de aprender/ensinar algo fora da linha de conforto, então aqui estamos usando o [Ruby/Jekyll](https://jekyllrb.com/), acredito que conseguir documentar os desafios, ajudar pessoas que estão no inicio da carreira e passando pelo mesmo desafio que eu me encontro, é uma forma fantástica de aprender e ajudar e como não queria ficar apenas lidar com a camada do client-side, queria algo que pudesse dar aquela sensação de domínio, resolvi adotar o Jekyll e ir além do Front-end do dia-a-dia.
 
