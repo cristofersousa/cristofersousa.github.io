@@ -8,15 +8,20 @@ categories: jekyll
 ![hello](../img/hello.jpg)
 
 ### Olá Mundo, Hello Jekyll!
-Finalmente, criei coragem para criar um blog, há tempos queria fazer isso mais a falta de "tempo" não deixava e como não queria criar algo com wordpress. Então, achei que seria uma excelente oportunidade para aprender/estudar algo fora da minha linha de conforto [Ruby | Jekyll](https://jekyllrb.com/), algo que pudesse dar aquela sensação de cheiro de programação, além do Front-end!
+Finalmente, criei coragem para criar um blog, há tempos queria fazer isso mais a falta de "tempo" não permitia isto! =B
+Poderia ter adotado o [CMS - Wordpress](https://br.wordpress.com/) mas estamos aqui nessa vida para nos desafiarmos, não é mesmo!?
 
-Fiz alguns testes com o [Hexo](https://hexo.io/) que o [Fernando Daciuk](http://blog.da2k.com.br/2014/01/05/hexo-criando-um-blog-ao-estilo-miojo/) passou no blog dele, mas achei que ainda faltava algo para o HEXO me convencer a adota-lo em produção.
+Então, achei que seria uma excelente oportunidade para começar algo novo, no intuito de aprender/ensinar algo fora da linha de conforto, então aqui estamos usando o [Ruby/Jekyll](https://jekyllrb.com/), acredito que conseguir documentar os desafios, ajudar pessoas que estão no inicio da carreira e passando pelo mesmo desafio que eu me encontro, é uma forma fantástica de aprender e ajudar e como não queria ficar apenas lidar com a camada do client-side, queria algo que pudesse dar aquela sensação de domínio, resolvi adotar o Jekyll e ir além do Front-end do dia-a-dia.
 
-Então acabei vendo alguns amigos e desenvolvedores que adotam o Jekyll, e achei super válido, e o que ajudou a me convencer a adota-lo de uma vez por todas, foi o curso do [Willian Justen](http://willianjusten.teachable.com/courses/criando-sites-estaticos-com-jekyll/) que ensina passo a passo a fazer essa imersão ao Jekyll, conhecer liquid template, estrutura dos arquivos, entre outros, aproveito para recomendar o curso  dele, quem procura aprender Jekyll, Git/Github ele está oferecendo cursos gratuitos, possui uma boa didática, se trata de video-aulas (videos curtos), enfim, coisa de Front-end que adora ajudar a comunidade! ;)
+Antes de "cair" aqui no Jekyll, já havia mantido um antigo[blog Wordpress](https://cristofersousa.wordpress.com/) e havia feito alguns testes com o [Hexo](https://hexo.io/), estudando através dos conceitos que o [Fernando Daciuk](http://blog.da2k.com.br/2014/01/05/hexo-criando-um-blog-ao-estilo-miojo/) passa no blog dele, mas achei que o HEXO faltava algo de especial para mim, mesmo gostando de JS, foi árduo fazer essa avaliação na época.
 
-Votando ao blog, quero falar bastante por aqui sobre Front-end (JavaScript, Sass, Canvas, Frameworks JS e o infinito), também sobre user experience, empreendedorismo, agile, Back-end (grails, python, java, ruby, talvez PHP) e se estiver vivo até lá quero tentar chegar a abordar um pouco de DevOps (Docker, Jenkins e etc) também, quero pegar minha experiência de trabalho, atrelado a vida acadêmica e tentar de alguma formar enxugar isso por aqui para ajudar outras pessoas que buscam pelo conhecimento dessas tecnologias, e também isto, acaba sendo uma forma de conseguir estudar mais para explicar para todos por aqui.
+Então, acabei vendo alguns amigos e desenvolvedores que adotam o Jekyll como plataforma e achei super válido, e o que me ajudou a convencer a adota-lo de uma vez por todas, foi o curso do [Willian Justen](http://willianjusten.teachable.com/courses/criando-sites-estaticos-com-jekyll/) que ensina passo a passo a fazer essa imersão, aproveito para recomendar o curso  dele, quem procura aprender Jekyll, Git/Github ele está oferecendo cursos gratuitos de excelente qualidade e didática, enfim, coisa de Front-end que adora ajudar a comunidade! ;)
 
-Fiz um sumário básico do que quero escrever nessas próximas semanas:
+Voltando ao meu novo blog quero abordar sobre Front-end(JavaScript, Sass, Canvas, Frameworks JS e o infinito),  Back-end(Grails, Python, Java, Ruby e talvez um pouco de PHP), também quero evidenciar o User Experience e a User Interface, além de Empreendedorismo e Agile.
+
+E se der tempo, quero tentar abordar um pouco de DevOps(Docker, Jenkins e etc), enfim é o resultado desse blog são as minhas próprias experiências de trabalho, atrelada a vida acadêmica. Se eu conseguir fazer isso de forma enxuta e elucidativa para os leitores.
+
+Criei um sumário meio rápido, do que pretendo escrever nessas próximas semanas:
 
  * Java, além de simples objetos;
  * Groovy e o fascínio que você deve ter;
@@ -32,6 +37,6 @@ Fiz um sumário básico do que quero escrever nessas próximas semanas:
  * Empreendedorismo social, porquê é tão difícil?
  * Carreira Acadêmica vs Mundo Corporativo vs Você Empreendedor;
 
- Bom, quero tentar adicionar um artigo por semana, com conteúdo denso e o feedback da galera sempre é bem vindo!
+ Bom é isso, quero tentar adicionar um artigo por semana e o feedback da galera sempre é bem vindo!
 
- Vamos que vamos!
+ Vamos que vamos! ;)
