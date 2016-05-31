@@ -16,9 +16,9 @@ Antes de "cair" aqui no Jekyll, já havia mantido um antigo [blog Wordpress](htt
 
 Então, acabei vendo alguns amigos e desenvolvedores que adotam o Jekyll como plataforma e achei super válido, e o que me ajudou a convencer a adota-lo de uma vez por todas, foi o curso do [Willian Justen](http://willianjusten.teachable.com/courses/criando-sites-estaticos-com-jekyll/) que ensina passo a passo a fazer essa imersão, aproveito para recomendar o curso  dele, quem procura aprender Jekyll, Git/Github ele está oferecendo cursos gratuitos de excelente qualidade e didática, enfim, coisa de Front-end que adora ajudar a comunidade! ;)
 
-Voltando ao meu novo blog quero abordar sobre Front-end(JavaScript, Sass, Canvas, Frameworks JS e o infinito),  Back-end(Grails, Python, Java, Ruby e talvez um pouco de PHP), também quero evidenciar o User Experience e a User Interface, além de Empreendedorismo e Agile.
+Voltando ao meu novo blog quero abordar sobre Front-end (JavaScript, Sass, Canvas, Frameworks JS e o infinito),  Back-end (Grails, Python, Java, Ruby e talvez um pouco de PHP), também quero evidenciar a User Experience e User Interface, além de Empreendedorismo e Agile.
 
-E se der tempo, quero tentar abordar um pouco de DevOps(Docker, Jenkins e etc), enfim é o resultado desse blog são as minhas próprias experiências de trabalho, atrelada a vida acadêmica. Se eu conseguir fazer isso de forma enxuta e elucidativa para os leitores.
+E se der tempo quero tentar evidenciar sobre DevOps (Docker, Jenkins e etc), enfim  o resultado desse blog são as minhas próprias experiências de trabalho, atrelada a vida acadêmica se eu conseguir fazer isso de forma enxuta e elucidativa para os leitores, já terei ganho o meu dia.
 
 Criei um sumário meio rápido, do que pretendo escrever nessas próximas semanas:
 
