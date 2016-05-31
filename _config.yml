@@ -1,0 +1,19 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Cristofer Sousa | Front-end Developer
+email: cristofer.sousa@gmail.com
+description: "Esse é um blog referente á informação sobre meus estudos sobre tecnologia opensource, web, mobile e empreendedorismo."
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://cristofersousa.com.br" # the base hostname & protocol for your site
+twitter_username: cristofersousa
+github_username:  cristofersousa
+
+# Build settings
+markdown: kramdown
+permalink: /:categories/:title

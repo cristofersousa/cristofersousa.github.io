@@ -1,0 +1,8 @@
+
+{% assign words = content | number_of_words %}
+
+{% if words < 360 %}
+    {% assign minutesText = '1 minuto para ler o artigo' %}
+{% else %}
+    {% assign minutesText = words | divided_by:180 | append: 'minutos para ler o artigo' %}
+{% endif %}
