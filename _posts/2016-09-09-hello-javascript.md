@@ -71,9 +71,11 @@ Instalando o Node, por enquanto vamos começar com o processo de introdução ao
 
 ** Plataforma Linux/Mac **
 
-> 1. curl -sL https://deb.nodesource.com/setup_6.x | sudo -E bash -
+'''
+ 1. curl -sL https://deb.nodesource.com/setup_6.x | sudo -E bash
 
-> 2. sudo apt-get install -y nodejs
+ 2. sudo apt-get install -y nodejs
+'''
 
 ##### Controle de versão para Node
 
