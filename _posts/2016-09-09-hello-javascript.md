@@ -5,7 +5,7 @@ date:   2016-09-09 18:10:32 -0300
 categories: javascript, node
 ---
 
-![]http://wallpapersdsc.net/wp-content/uploads/2015/11/414.jpg)
+![](http://wallpapersdsc.net/wp-content/uploads/2015/11/414.jpg)
 
 Hello JavaScript, ou ES6/JavaScript2015, essa semana começamos um novo treinamento aqui no [Opensanca](www.opensanca.com.br) que chamamos de Trilha Developer, o foco desse treinamento e disponibilizar uma carga horária mais extensa com encontros semanais (terça e quinta das 19:30 ás 22:30), dissecando uma tecnologia do básico até o avançado. No semestre passado oferecemos um treinamento de Python -  [Trilha de Python](https://github.com/opensanca/trilha-python) com 60h de treinamento que foi cuidadosamente passada com os conhecimentos do [Luiz Menezes](https://github.com/lamenezes).  E agora começamos com a [Trilha Developer - Full Stack JavaScript](https://github.com/opensanca/trilha-javascript).
 
@@ -94,7 +94,9 @@ Agora, basta inserir o comando:
 Pronto seu node, estará com a versão mais recente!
 
 ** Plataforma Windows **
+
 > 1. Instalar o [NVM](https://github.com/coreybutler/nvm-windows)
+
 > 2. next, next e finish
 
 #### Testando nosso ambiente
