@@ -1,15 +1,27 @@
 ---
 layout: post
-title:  "Hello JavaScript [ES6 & Node.js]"
+title:  "Hello JavaScript aka ES6!"
 date:   2016-09-09 18:10:32 -0300
-categories: javascript
+categories: javascript, node
 ---
 
-## Hello Node.js!
+![]http://wallpapersdsc.net/wp-content/uploads/2015/11/414.jpg)
 
-Essa semana, começamos um treinamento no [Opensanca](www.opensanca.com.br) que chama Trilha Developer, o foco desse treinamento é ser uma carga horária mais extensa com encontros semanais, dissecando uma tecnologia do básico até o avançado. No semestre passado oferecemos uma [Trilha de Python](https://github.com/opensanca/trilha-python) com 60h de treinamento que foi cuidadosamente passada com os conhecimentos do [Luiz Menezes](https://github.com/lamenezes).  E agora começamos com a [Trilha Developer - Full Stack JavaScript](https://github.com/opensanca/trilha-javascript).
+Hello JavaScript, ou ES6/JavaScript2015, essa semana começamos um novo treinamento aqui no [Opensanca](www.opensanca.com.br) que chamamos de Trilha Developer, o foco desse treinamento e disponibilizar uma carga horária mais extensa com encontros semanais (terça e quinta das 19:30 ás 22:30), dissecando uma tecnologia do básico até o avançado. No semestre passado oferecemos um treinamento de Python -  [Trilha de Python](https://github.com/opensanca/trilha-python) com 60h de treinamento que foi cuidadosamente passada com os conhecimentos do [Luiz Menezes](https://github.com/lamenezes).  E agora começamos com a [Trilha Developer - Full Stack JavaScript](https://github.com/opensanca/trilha-javascript).
 
-Bom, e aqui estou eu para começar essa nova saga de voltar a escrever e colocar em dia as coisas que aprendo, revejo e assim por diante, o disseminar pelo disseminar, quero passar aqui todo o treinamento que estou vendo nesta Trilha.
+Bom, e aqui estou eu para começar essa nova saga de documentar o que aprendo nesta trilha, vamos ver os seguintes tópicos:
+
+- JavaScript Básico com ES6
+- JavaScript DOM/BOM com ES6
+- Node
+- Angular
+- MondoDB
+- Ember
+- React & Flux
+- Ionic 1
+- Testes Unitários
+
+Então, vamos lá, fique livre para comentar e argumentar sobre os artigos aqui postados sobre a linguagem, com certeza toda discussão é válida, hoje vamos começar instalando o Node.js e o nosso primeiro Hello World! Vamos lá, então! \o/
 
 ### Ambiente
 
@@ -34,13 +46,13 @@ Instalando nosso editor de texto, Atom! Estamos escolhendo o Atom, pois ele é o
 
 ** Plataforma Windows / Mac **
 
-   1. Instale o Atom (next, next e finish)
+  > 1. Instale o Atom (next, next e finish)
 
 ** Plataforma Linux/Mac **
 
-  1. sudo add-apt-repository ppa:webupd8team/atom
-  2. sudo apt-get update
-  3. sudo apt-get install atom
+  > 1. sudo add-apt-repository ppa:webupd8team/atom
+  > 2. sudo apt-get update
+  > 3. sudo apt-get install atom
 
 ##### Node
 
@@ -54,6 +66,7 @@ Instalando o Node, por enquanto vamos começar com o processo de introdução ao
 ** Plataforma Linux/Mac **
 
 > 1. curl -sL https://deb.nodesource.com/setup_6.x | sudo -E bash -
+
 > 2. sudo apt-get install -y nodejs
 
 ##### Controle de versão para Node
@@ -81,8 +94,8 @@ Agora, basta inserir o comando:
 Pronto seu node, estará com a versão mais recente!
 
 ** Plataforma Windows **
-1. Instalar o [NVM](https://github.com/coreybutler/nvm-windows)
-2. next, next e finish
+> 1. Instalar o [NVM](https://github.com/coreybutler/nvm-windows)
+> 2. next, next e finish
 
 #### Testando nosso ambiente
 
