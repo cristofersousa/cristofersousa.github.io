@@ -23,8 +23,6 @@ Bom, e aqui estou eu para começar essa nova saga de documentar o que aprendo ne
 
 Então, vamos lá, fique livre para comentar e argumentar sobre os artigos aqui postados sobre a linguagem, com certeza toda discussão é válida, hoje vamos começar instalando o Node.js, instalar controle de versão, preparar o ambiente e fazer o nosso primeiro Hello World!
 
-
-
 ### Ambiente
 
 Bom, para você começar um treinamento de JavaScript, no modo "antigo", antes você precisava apenas:
@@ -48,11 +46,11 @@ Instalando nosso editor de texto, Atom! Estamos escolhendo o Atom, pois ele é o
 
 ##### Atom
 
-** Plataforma Windows / Mac **
+*** Plataforma Windows / Mac ***
 
   > 1. Instale o Atom (next, next e finish)
 
-** Plataforma Linux/Mac **
+*** Plataforma Linux/Mac ***
 
   > 1. sudo add-apt-repository ppa:webupd8team/atom
   > 2. sudo apt-get update
@@ -64,18 +62,16 @@ Instalando nosso editor de texto, Atom! Estamos escolhendo o Atom, pois ele é o
 
 Instalando o Node, por enquanto vamos começar com o processo de introdução ao JavaScript, mas depois quando entrar na parte web, vamos precisar de um servidor rodando, mais um motivo positivo para iniciar com ele! ;)
 
-** Plataforma Windows / Mac **
+*** Plataforma Windows / Mac ***
 
    > 1. Instale o Node (next, next e finish)
 
 
-** Plataforma Linux/Mac **
+*** Plataforma Linux/Mac ***
 
-'''
- 1. curl -sL https://deb.nodesource.com/setup_6.x | sudo -E bash
+''' 1. curl -sL https://deb.nodesource.com/setup_6.x | sudo -E bash
 
- 2. sudo apt-get install -y nodejs
-'''
+ 2. sudo apt-get install -y nodejs'''
 
 ##### Controle de versão para Node
 
