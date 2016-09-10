@@ -21,7 +21,9 @@ Bom, e aqui estou eu para começar essa nova saga de documentar o que aprendo ne
 - Ionic 1
 - Testes Unitários
 
-Então, vamos lá, fique livre para comentar e argumentar sobre os artigos aqui postados sobre a linguagem, com certeza toda discussão é válida, hoje vamos começar instalando o Node.js e o nosso primeiro Hello World! Vamos lá, então! \o/
+Então, vamos lá, fique livre para comentar e argumentar sobre os artigos aqui postados sobre a linguagem, com certeza toda discussão é válida, hoje vamos começar instalando o Node.js, instalar controle de versão, preparar o ambiente e fazer o nosso primeiro Hello World!
+
+
 
 ### Ambiente
 
@@ -42,6 +44,8 @@ Então vamos lá, o que você precisará:
 
 Instalando nosso editor de texto, Atom! Estamos escolhendo o Atom, pois ele é opensource, existe uma infinidade de recursos, plugins e macetes que nos auxiliará durante nosso desenvolvimento e amadurecimento da linguagem JavaScript, então,  bora lá!
 
+![](https://raw.githubusercontent.com/karan/atom-terminal/master/terminal.gif)
+
 ##### Atom
 
 ** Plataforma Windows / Mac **
@@ -53,6 +57,8 @@ Instalando nosso editor de texto, Atom! Estamos escolhendo o Atom, pois ele é o
   > 1. sudo add-apt-repository ppa:webupd8team/atom
   > 2. sudo apt-get update
   > 3. sudo apt-get install atom
+  
+  ![](https://nodejs.org/static/images/logos/nodejs-2560x1440.png)
 
 ##### Node
 
