@@ -2,7 +2,7 @@
 layout: post
 title:  "Wireframes & Mock up, como ser ágil?!"
 date:   2016-09-13 18:10:32 -0300
-categories: ux, wireframe, ui, agile
+categories: ux
 ---
 
 ![Wireframe & Mockup](https://brainhub.eu/blog/wp-content/uploads/2016/04/difference-wireframe-between-mockup.png)
@@ -57,6 +57,7 @@ Fim!
 - [Começo do Fim dos Wireframes](http://arquiteturadeinformacao.com/user-experience/o-comeco-do-fim-dos-wireframes/)
 - [20 Steps to better wireframing ](http://blog.teamtreehouse.com/20-steps-to-better-wireframing)
 - [Why prototyping beats wireframing.](https://the-pastry-box-project.net/leisa-reichelt/2012-october-23)
+
 
 #### Outros
 Para criar esse artigo queria colocar um video do Youtube e achei essa [dica marota](http://www.adamwadeharris.com/how-to-easily-embed-youtube-videos-in-jekyll-sites-without-a-plugin/) , recomendo! :)
