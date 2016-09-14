@@ -33,7 +33,11 @@ Para este caso, você deve já começar arregaçando as mangas e dando vida para
  - Tabelas
  - Forms
 
-Dica, recomendo fortemente que adote um framework CSS para isto, seja PureCSS, [Bootstrap](https://www.getbootstrap.com), Materialize ou MDL, enfim estamos falando em ser ágil para a equipe, esses frameworks vão acelerar seu tempo de desenvolvimento e o código será reaproveitado, eles possuem bastante coisa já pronta, não se preocupe com styleguide (Cores & Fontes), lembre-se mesmo que esteja validando fluxo, sua principal preocupação deve ser a interação e as ações do usuário. 
+
+Dica, recomendo fortemente que adote um framework CSS para isto, seja PureCSS, [Bootstrap](https://www.getbootstrap.com), Materialize ou MDL, enfim estamos falando em ser ágil para a equipe, esses frameworks vão acelerar seu tempo de desenvolvimento e o código será reaproveitado, eles possuem bastante coisa já pronta, não se preocupe com styleguide (Cores & Fontes), lembre-se mesmo que esteja validando fluxo, sua principal preocupação deve ser a interação e as ações do usuário. Aqui no [codepen.io](http://codepen.io/cristofersousa/pen/PzBKqJ) eu mostro um rascunho de como fiz a interface e abaixo na imagem como ficou o projeto final!
+
+![Mão Aberta - Mock with Bootstrap](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/7b0e7942844021.57d99e53390d3.jpg)
+
 
 Para argumentar mais sobre isso, pesquisando sobre UX Designer e Front-end tem esse video bacana explicando a concepção e o porque de wireframes, o que baixa e alta fidelidade, nessa etapa do desenvolvimento:
 
