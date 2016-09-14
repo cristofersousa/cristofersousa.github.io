@@ -18,7 +18,6 @@ será que o Analista de Requisitos poderia coletar tudo que necessita com o clie
 Para argumentar mais sobre isso, pesquisando sobre UX Designer e Front-end tem esse video bacana explicando a concepção e o porque de wireframes, o que baixa e alta fidelidade, nessa etapa do desenvolvimento:
 
 
-!!![video]()
 {% include youtubePlayer.html id="i4Zg6_yKOh8" %}
 
 
