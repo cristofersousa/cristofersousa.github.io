@@ -60,6 +60,4 @@ Fim!
 - [Why prototyping beats wireframing.](https://the-pastry-box-project.net/leisa-reichelt/2012-october-23)
 
 
-#### Outros
-Para criar esse artigo queria colocar um video do Youtube e achei essa [dica marota](http://www.adamwadeharris.com/how-to-easily-embed-youtube-videos-in-jekyll-sites-without-a-plugin/) , recomendo! :)
 
