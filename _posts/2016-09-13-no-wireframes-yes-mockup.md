@@ -14,6 +14,8 @@ Hoje, conversando com um cliente, tomando nota do que ele deseja que o sistema f
 #### Caccoo - Tools
 Sendo assim, já retorno para a estação de trabalho e começo a passsar a limpo aqueles rasbicos que fiz, e começo a criar um wireframe de media-fidelidade, costumo usar o [Caccoo](http://cacoo.com/), a aplicação é paga, mas ela fornece um pacote "free", dentro desse pacote o que mais me agrada é o fato de poder adcionar qualquer usuário para ver o que estou fazendo em tempo real, com isso, o usuário pode editar, adicionar comentários e até conversar comigo via chat real-time. Isso me possibilida que consiga ser mais assertivo na minha entrega final, e qualquer mudança que precisa ser feito durante as próximas reuniões, já posso fazer ao lado do cliente. ;) 
 
+![SancaJobs - Wireframe](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e0716442844167.57d99f62c243b.png)
+
 Bem, até aqui falamos de colaboração, refatoração, insigth e feedback, veja que já começamos a tornar o processo que antes era apenas de uma única pessoa a propagar para uma cadeia de fatores e pessoas envolvidas para que o projeto flua de forma mais dinâmica e contínua!
 
 ![Wireframe triste](http://i0.wp.com/arquiteturadeinformacao.com/wp-content/uploads/2012/10/wireframe.jpg?w=500)
