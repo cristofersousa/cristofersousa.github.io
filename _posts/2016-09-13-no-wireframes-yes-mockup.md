@@ -15,7 +15,12 @@ exatamente o que ele planeja, dentro da "normalidade".  Bom, eis que o cliente i
 Uhn, a partir daí comecei a me questionar, estou sendo ágil? Será que mesmo com a colaboração do cliente em cima dos wireframes está sendo realmente objetivo,
 será que o Analista de Requisitos poderia coletar tudo que necessita com o cliente com horas de reunião, criando todos os possivéis diagramas possivéis, pos mais simples que o projeto possa ser?
 
-Para argumentar mais sobre isso, pesquisando sobre UX Designer e Front-end que fazem esse trabalho e como ser ágil nessa etapa, cheguei a algumas explanações interessantes:
+Para argumentar mais sobre isso, pesquisando sobre UX Designer e Front-end tem esse video bacana explicando a concepção e o porque de wireframes, o que baixa e alta fidelidade, nessa etapa do desenvolvimento:
+
+
+[!video](https://www.youtube.com/watch?v=i4Zg6_yKOh8)
+
+Pontos que eu julgo interessante:
 
 
     Acho que uma das principais motivações nesse processo de reinventar o fluxo de trabalho de um time de Design é a constatação de que wireframes de alta fidelidade não têm tido um bom desempenho em certos tipos de projeto. Entre os principais problemas desse tipo de entregável:
