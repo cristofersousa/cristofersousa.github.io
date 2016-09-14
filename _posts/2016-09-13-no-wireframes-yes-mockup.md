@@ -46,23 +46,11 @@ Fim!
 
 
 
-Pontos que eu julgo interessante:
-
-
-    Acho que uma das principais motivações nesse processo de reinventar o fluxo de trabalho de um time de Design é a constatação de que wireframes de alta fidelidade não têm tido um bom desempenho em certos tipos de projeto. Entre os principais problemas desse tipo de entregável:
-
-    .  Wireframes estáticos não são muito bons em representar um design responsivo, a não ser que você desenhe umas 5 versões diferentes dele ou mais.
-
-    . Wireframes muitas vezes tentam simular um comportamento que já é nativo do HTML e do CSS.
-    
-     . Alterações no wireframe de alta fidelidade levam mais tempo para serem feitas do que no código, por mais que você use elementos-mestres e outras táticas.
-     
-     
 #### Referencias:
-[Wireframe -  Guia Completo](http://desenvolvimentoparaweb.com/ux/wireframe-web-guia-completo/)
-[Começo do Fim dos Wireframes](http://arquiteturadeinformacao.com/user-experience/o-comeco-do-fim-dos-wireframes/)
-[20 Steps to better wireframing ](http://blog.teamtreehouse.com/20-steps-to-better-wireframing)
-[Why prototyping beats wireframing.](https://the-pastry-box-project.net/leisa-reichelt/2012-october-23)
+- [Wireframe -  Guia Completo](http://desenvolvimentoparaweb.com/ux/wireframe-web-guia-completo/)
+- [Começo do Fim dos Wireframes](http://arquiteturadeinformacao.com/user-experience/o-comeco-do-fim-dos-wireframes/)
+- [20 Steps to better wireframing ](http://blog.teamtreehouse.com/20-steps-to-better-wireframing)
+- [Why prototyping beats wireframing.](https://the-pastry-box-project.net/leisa-reichelt/2012-october-23)
 
 #### Outros
 Para criar esse artigo queria colocar um video do Youtube e achei essa [dica marota](http://www.adamwadeharris.com/how-to-easily-embed-youtube-videos-in-jekyll-sites-without-a-plugin/) , recomendo! :)
