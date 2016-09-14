@@ -1,13 +1,11 @@
 ---
 layout: post
-title:  "Hello JavaScript aka ES6!"
+title:  "Wireframes & Mockup's, como ser ágil?!"
 date:   2016-09-13 18:10:32 -0300
 categories: ux, wireframe, ui, agile
 ---
 
 ![Wireframe triste](http://i0.wp.com/arquiteturadeinformacao.com/wp-content/uploads/2012/10/wireframe.jpg?w=500)
-
-### No Wireframe, Yes Mockup!
 
 Hoje, conversando com um cliente, em uma das reuniões,  avalio que o projeto dele não está muito claro porém precisamos começar o quanto antes
 desta forma, vejo que a melhor forma de coletar os requisitos e avaliar o que ele está pensando é criar wireframes de forma colaborativa.
