@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Wireframes & Mockup's, como ser ágil?!"
+title:  "Wireframes & Mock up, como ser ágil?!"
 date:   2016-09-13 18:10:32 -0300
 categories: ux, wireframe, ui, agile
 ---
 
-![Wireframe triste](http://i0.wp.com/arquiteturadeinformacao.com/wp-content/uploads/2012/10/wireframe.jpg?w=500)
+![Wireframe & Mockup](https://brainhub.eu/blog/wp-content/uploads/2016/04/difference-wireframe-between-mockup.png)
 
 Hoje, conversando com um cliente, em uma das reuniões,  avalio que o projeto dele não está muito claro porém precisamos começar o quanto antes
 desta forma, vejo que a melhor forma de coletar os requisitos e avaliar o que ele está pensando é criar wireframes de forma colaborativa.
@@ -19,6 +19,10 @@ Para argumentar mais sobre isso, pesquisando sobre UX Designer e Front-end tem e
 
 
 {% include youtubePlayer.html id="i4Zg6_yKOh8" %}
+
+Ok, mas o que é mais rápido para você, suponha que você execute as duas tarefas (front-end/ux designer)
+
+![Wireframe triste](http://i0.wp.com/arquiteturadeinformacao.com/wp-content/uploads/2012/10/wireframe.jpg?w=500)
 
 
 Pontos que eu julgo interessante:
