@@ -19,7 +19,7 @@ Para argumentar mais sobre isso, pesquisando sobre UX Designer e Front-end tem e
 
 
 !!![video]()
-{% include youtubePlayer.html id=i4Zg6_yKOh8 %}
+{% include youtubePlayer.html id=page.i4Zg6_yKOh8 %}
 
 
 Pontos que eu julgo interessante:
