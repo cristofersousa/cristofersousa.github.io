@@ -50,7 +50,13 @@ Para este caso, você deve já começar arregaçando as mangas e dando vida para
  - Forms
 
 
-Dica, recomendo fortemente que adote um framework CSS para isto, seja PureCSS, [Bootstrap](https://www.getbootstrap.com), Materialize ou MDL, enfim estamos falando em ser ágil para a equipe, esses frameworks vão acelerar seu tempo de desenvolvimento e o código será reaproveitado, eles possuem bastante componentes já pronto, não se preocupe com **Cores & Fontes**.
+Dica, recomendo fortemente que nessa etapa, adote um framework CSS para isto:
+  - PureCSS
+  - [Bootstrap](https://www.getbootstrap.com)
+  - Materialize 
+  - MDL
+   
+Enfim estamos falando em ser ágil para a equipe, esses frameworks vão acelerar seu tempo de desenvolvimento e o código será reaproveitado, eles possuem bastante componentes já pronto, não se preocupe com **Cores & Fontes**.
 
 Lembre-se mesmo que esteja validando fluxo, sua principal preocupação deve ser a interação e as ações do usuário. Aqui no [codepen.io](http://codepen.io/cristofersousa/pen/PzBKqJ) eu mostro um rascunho de como fiz a interface e abaixo como ficou o projeto final.
 
