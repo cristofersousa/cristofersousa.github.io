@@ -46,8 +46,19 @@ Para argumentar mais sobre isso, pesquisando sobre UX Design tem esse video  aba
 
 #### Conclusão
 
-Quando devo fazer wireframe e quanto devo fazer mock? Pela minha experiência, tudo indica o amadurecimento da sua equipe, e o grau que o projeto já se encontra, se o projeto já se encontra consolidado e estamos em desenvolvimento, podemos poupar muito tempo já com o mock, temos basicamente todos os componentes prontos. 
-A então o wireframe seria perca de tempo? Nãoooo! O wireframe serve para qualquer cenário, principalmente aquele mais complexo, da qual o cliente está em dúvida ainda qual será a interação que ele espera que o usuário faça, ás vezes a equipe vendo o wireframe de uma tela complexa eles podem pontuar problemas, ideias e novas formas, ou seja a equipe poderá participar do wireframe em conjunto contigo durante a demonstração, mesmo que seja estático, pense nele como um BrainStorm, neste ano ministrei um [Workshop - Do papel a Prototipação](https://speakerdeck.com/cristofersousa/do-papel-a-prototipacao-mobile) na qual demonstro com os rascunhos no papel você pode usar um [app POP](https://popapp.in/) ele basicamente lhe fornece condições para que crie todo o fluxo de interação do aplicativo com o usuário, com isso você pode validar com o cliente, é bem interativo, simples e muito prático.
+Quando devo fazer wireframe e quanto devo fazer mock? Pela minha experiência, pude observar que deve-se levar em consideração o amadurecimento da equipe e o grau que o projeto já se encontra:
+
+- O projeto já se encontra consolidado e estamos em desenvolvimento? 
+- Podemos poupar muito tempo já com o mock, afinal temos basicamente todos os componentes prontos.
+ 
+A então o wireframe seria perca de tempo? Nãoooo! O wireframe serve para os seguintes cenários:
+
+- Validação de fluxos complexo, da qual o cliente está em dúvida ainda qual será a interação do usuário;
+- Prévia de validação, ou seja á equipe pode ter uma noção rápida sobre o que está por vir
+- Colaboração, a equipe pode pontuar problemas, ideias e novas formas, naqueles rabisco que tu fez;
+- Brainstorm, no momento do wireframe pode coletar vários insigth.
+
+Neste ano ministrei um [Workshop - Do papel a Prototipação](https://speakerdeck.com/cristofersousa/do-papel-a-prototipacao-mobile) no IFSP - Ararquara na Semana da Informática, na qual demonstro que mesmo com os rascunhos no papel você pode fazer todo fluxo interativo com o usuário e coletar as informações importantes para á aplicação, eu utilizei o [POP app](https://popapp.in/) ele basicamente lhe fornece condições para que crie todo o fluxo de interação do aplicativo com o usuário, tirando fotos do que rascunhou e depois fazendo o mapeamento para as outras telas com isso você pode validar com o cliente, além de ser simples e muito prático é bem interativo.
 
 ![Prototipando no Papel](https://scontent-gru2-1.xx.fbcdn.net/v/t1.0-9/13103350_1170161953008356_6104476782672874433_n.jpg?oh=2b1ef22df0da1e6c012d749eacf27b00&oe=583FBA22)
 
