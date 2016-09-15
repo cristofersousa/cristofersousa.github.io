@@ -5,7 +5,7 @@ date:   2016-09-13 18:10:32 -0300
 categories: ux
 ---
 
-![Wireframe & Mockup](https://brainhub.eu/blog/wp-content/uploads/2016/04/difference-wireframe-between-mockup.png)
+![Start Wireframe & Mockup](https://d262ilb51hltx0.cloudfront.net/max/800/1*XOPA8mvLJbtVmO4JgVNLJQ.png)
 
 Quero tratar nesse artigo sobre a viabilidade e a diferença de desenvolver wireframes e como ser ágil para seu projeto, avaliando o tipo de equipe que se encontra mas antes tenho que fazer um breve panorama do porquê disso tudo.
 
@@ -14,7 +14,7 @@ Hoje, conversando com um cliente, tomando nota sobre o que ele deseja que o sist
 ![Sketch nosso de cada dia!](https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-xlf1/v/t1.0-9/13428421_1198542513503633_4984712604594933393_n.jpg?oh=ce8560e7094eecd5173c5a9e9f47b81d&oe=58774A73&__gda__=1480413160_2725adb6bc0a8c2eddb594580f8340a8)
 
 #### Caccoo - Tools
-Sendo assim, já retorno para a estação de trabalho e começo a passsar a limpo aqueles rasbicos que fiz, e começo a criar um wireframe de "baixa/média-fidelidade", costumo usar o [Caccoo](http://cacoo.com/) como ferramenta de criação de wireframes, existem inúmeras como Axure, Balsamiq, MockFlow, bem o porquê da minha escolha sobre o Cacoo é pelo fato da aplicação ser online, fornecer um pacote "free", dentro desse pacote o que mais me agrada é o fato de poder adicionar qualquer usuário para ver o que estou fazendo em tempo real, com isso, o usuário pode editar, adicionar comentários e até conversar comigo via chat. Isso me possibilida que consiga ser mais assertivo na minha entrega final e qualquer mudança que precisa ser feito durante as próximas reuniões, já posso fazer ao lado do cliente. ;) 
+Sendo assim, já retorno para a estação de trabalho e começo a passar a limpo aqueles rasbicos que fiz, e começo a criar um wireframe de "baixa/média-fidelidade", costumo usar o [Caccoo](http://cacoo.com/) como ferramenta de criação de wireframes, existem inúmeras como Axure, Balsamiq, MockFlow, bem o porquê da minha escolha sobre o Cacoo é pelo fato da aplicação ser online, fornecer um pacote "free", dentro desse pacote o que mais me agrada é o fato de poder adicionar qualquer usuário para ver o que estou fazendo em tempo real, com isso, o usuário pode editar, adicionar comentários e até conversar comigo via chat. Isso me possibilida que consiga ser mais assertivo na minha entrega final e qualquer mudança que precisa ser feito durante as próximas reuniões, já posso fazer ao lado do cliente. ;) 
 
 ![SancaJobs - Wireframe](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e0716442844167.57d99f62c243b.png)
 
@@ -57,11 +57,12 @@ Fim!
 
 #### Referencias:
 - [Wireframe -  Guia Completo](http://desenvolvimentoparaweb.com/ux/wireframe-web-guia-completo/)
-- [Começo do Fim dos Wireframes](http://arquiteturadeinformacao.com/user-experience/o-comeco-do-fim-dos-wireframes/)
+- [Começo do Fim dos wireframes](http://arquiteturadeinformacao.com/user-experience/o-comeco-do-fim-dos-wireframes/)
 - [20 Steps to better wireframing ](http://blog.teamtreehouse.com/20-steps-to-better-wireframing)
 - [Why prototyping beats wireframing.](https://the-pastry-box-project.net/leisa-reichelt/2012-october-23)
 - [Wireframing with pen and paper or on screen?](http://www.sarahevansdesign.co.uk/blog/2016-07-13-wireframing-with-pen-and-paper-or-on-screen)
 - [Ferramentas para criação de wireframes](http://desenvolvimentoparaweb.com/ux/ferramentas-criacao-wireframes/)
+- [How to get value from wireframes](https://medium.com/@dustin/how-to-get-value-from-wireframes-f40c2cf27960#.bqfelvbp2)
 
 
 
