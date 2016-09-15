@@ -14,7 +14,19 @@ Hoje, conversando com um cliente, tomando nota sobre o que ele deseja que o sist
 ![Sketch nosso de cada dia!](https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-xlf1/v/t1.0-9/13428421_1198542513503633_4984712604594933393_n.jpg?oh=ce8560e7094eecd5173c5a9e9f47b81d&oe=58774A73&__gda__=1480413160_2725adb6bc0a8c2eddb594580f8340a8)
 
 #### Caccoo - Tools
-Sendo assim, já retorno para a estação de trabalho e começo a passar a limpo aqueles rasbicos que fiz, e começo a criar um wireframe de "baixa/média-fidelidade", costumo usar o [Caccoo](http://cacoo.com/) como ferramenta de criação de wireframes, existem inúmeras como Axure, Balsamiq, MockFlow, bem o porquê da minha escolha sobre o Cacoo é pelo fato da aplicação ser online, fornecer um pacote "free", dentro desse pacote o que mais me agrada é o fato de poder adicionar qualquer usuário para ver o que estou fazendo em tempo real, com isso, o usuário pode editar, adicionar comentários e até conversar comigo via chat. Isso me possibilida que consiga ser mais assertivo na minha entrega final e qualquer mudança que precisa ser feito durante as próximas reuniões, já posso fazer ao lado do cliente. ;) 
+Sendo assim, já retorno para a estação de trabalho e começo a passar a limpo aqueles rasbicos que fiz, e começo a criar um wireframe de "baixa/média-fidelidade", costumo usar o [Caccoo](http://cacoo.com/) como ferramenta de criação de wireframes, existem inúmeras como:
+
+- Axure
+- Balsamiq
+- MockFlow
+
+ Sobre a minha escolha sobre o Cacoo, alguns pontos relevantes para tomar nota:
+ - A aplicação é 100% online;
+ - Aplicação é "free";
+ - Permite compartilhamento do projeto com outras pessoas;
+ - Export para PNG (apenas no plano Free);
+
+Com essa gama de recursos que a aplicação me oferece, eu consigo facilmente ser mais assertivo na minha entrega final e qualquer mudança que precisa ser feito durante as próximas reuniões, já posso fazer ao lado do cliente, isso é ser ágil! ;) 
 
 ![SancaJobs - Wireframe](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e0716442844167.57d99f62c243b.png)
 
@@ -34,7 +46,9 @@ Para este caso, você deve já começar arregaçando as mangas e dando vida para
  - Forms
 
 
-Dica, recomendo fortemente que adote um framework CSS para isto, seja PureCSS, [Bootstrap](https://www.getbootstrap.com), Materialize ou MDL, enfim estamos falando em ser ágil para a equipe, esses frameworks vão acelerar seu tempo de desenvolvimento e o código será reaproveitado, eles possuem bastante componentes já pronto, não se preocupe com **Cores & Fontes**, lembre-se mesmo que esteja validando fluxo, sua principal preocupação deve ser a interação e as ações do usuário. Aqui no [codepen.io](http://codepen.io/cristofersousa/pen/PzBKqJ) eu mostro um rascunho de como fiz a interface e abaixo como ficou o projeto final.
+Dica, recomendo fortemente que adote um framework CSS para isto, seja PureCSS, [Bootstrap](https://www.getbootstrap.com), Materialize ou MDL, enfim estamos falando em ser ágil para a equipe, esses frameworks vão acelerar seu tempo de desenvolvimento e o código será reaproveitado, eles possuem bastante componentes já pronto, não se preocupe com **Cores & Fontes**.
+
+Lembre-se mesmo que esteja validando fluxo, sua principal preocupação deve ser a interação e as ações do usuário. Aqui no [codepen.io](http://codepen.io/cristofersousa/pen/PzBKqJ) eu mostro um rascunho de como fiz a interface e abaixo como ficou o projeto final.
 
 ![Mão Aberta - Mock with Bootstrap](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/7b0e7942844021.57d99e53390d3.jpg)
 
@@ -58,7 +72,9 @@ A então o wireframe seria perca de tempo? Nãoooo! O wireframe serve para os se
 - Colaboração, a equipe pode pontuar problemas, ideias e novas formas, naqueles rabisco que tu fez;
 - Brainstorm, no momento do wireframe pode coletar vários insigth.
 
-Neste ano ministrei um [Workshop - Do papel a Prototipação](https://speakerdeck.com/cristofersousa/do-papel-a-prototipacao-mobile) no IFSP - Araraquara na Semana da Informática, na qual demonstro que mesmo com os rascunhos no papel você pode fazer todo fluxo interativo com o usuário e coletar as informações importantes para á aplicação, eu utilizei o [POP app](https://popapp.in/) ele basicamente lhe fornece condições para que crie todo o fluxo de interação do aplicativo com o usuário, tirando fotos do que rascunhou e depois fazendo o mapeamento para as outras telas com isso você pode validar com o cliente, além de ser simples e muito prático é bem interativo.
+Neste ano ministrei um [Workshop - Do papel a Prototipação](https://speakerdeck.com/cristofersousa/do-papel-a-prototipacao-mobile) no IFSP - Araraquara, na qual demonstro que mesmo com os rascunhos no papel você pode fazer todo fluxo interativo com o usuário e coletar as informações importantes para á aplicação.
+
+Caso você queira testar, para fazer esse workshop, eu utilizei o [POP app](https://popapp.in/) ele basicamente lhe fornece condições para que crie todo o fluxo de interação do aplicativo com o usuário, você tem a possibilidade de tirar fotos do que rascunhou e depois fazendo o mapeamento para as outras telas com isso você pode validar com o cliente, além de ser simples, prático e interativo.
 
 ![Prototipando no Papel](https://scontent-gru2-1.xx.fbcdn.net/v/t1.0-9/13103350_1170161953008356_6104476782672874433_n.jpg?oh=2b1ef22df0da1e6c012d749eacf27b00&oe=583FBA22)
 
@@ -74,6 +90,7 @@ Fim!
 - [Wireframing with pen and paper or on screen?](http://www.sarahevansdesign.co.uk/blog/2016-07-13-wireframing-with-pen-and-paper-or-on-screen)
 - [Ferramentas para criação de wireframes](http://desenvolvimentoparaweb.com/ux/ferramentas-criacao-wireframes/)
 - [How to get value from wireframes](https://medium.com/@dustin/how-to-get-value-from-wireframes-f40c2cf27960#.bqfelvbp2)
+- [Why Prototypes fail in UX Process?](http://www.uxness.in/2015/09/why-prototypes-fail-in-ux-process.html)
 
 
 
