@@ -21,10 +21,11 @@ Sendo assim, já retorno para a estação de trabalho e começo a passar a limpo
 - MockFlow
 
  Sobre a minha escolha sobre o Cacoo, alguns pontos relevantes para tomar nota:
- - A aplicação é 100% online;
- - Aplicação é "free";
- - Permite compartilhamento do projeto com outras pessoas;
- - Export para PNG (apenas no plano Free);
+ 
+  - A aplicação é 100% online;
+  - Aplicação é "free";
+  - Permite compartilhamento do projeto com outras pessoas;
+  - Export para PNG (apenas no plano Free);
 
 Com essa gama de recursos que a aplicação me oferece, eu consigo facilmente ser mais assertivo na minha entrega final e qualquer mudança que precisa ser feito durante as próximas reuniões, já posso fazer ao lado do cliente, isso é ser ágil! ;) 
 
