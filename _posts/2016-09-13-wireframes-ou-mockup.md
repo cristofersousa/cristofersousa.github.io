@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Wireframes & Mock up, como ser ágil?!"
+title:  "Wireframes ou Mock up, como ser ágil?!"
 date:   2016-09-13 18:10:32 -0300
 categories: ux
 ---
