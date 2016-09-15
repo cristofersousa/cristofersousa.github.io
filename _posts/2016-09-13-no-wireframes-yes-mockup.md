@@ -51,10 +51,11 @@ Para este caso, você deve já começar arregaçando as mangas e dando vida para
 
 
 Dica, recomendo fortemente que nessa etapa, adote um framework CSS para isto:
-  - PureCSS
+
+  - [PureCSS](http://purecss.io/)
   - [Bootstrap](https://www.getbootstrap.com)
-  - Materialize 
-  - MDL
+  - [Materialize](http://materializecss.com/)  
+  - [Material Design Light](https://getmdl.io/)
    
 Enfim estamos falando em ser ágil para a equipe, esses frameworks vão acelerar seu tempo de desenvolvimento e o código será reaproveitado, eles possuem bastante componentes já pronto, não se preocupe com **Cores & Fontes**.
 
