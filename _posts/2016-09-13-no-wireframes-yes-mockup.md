@@ -58,6 +58,7 @@ Fim!
 - [Começo do Fim dos Wireframes](http://arquiteturadeinformacao.com/user-experience/o-comeco-do-fim-dos-wireframes/)
 - [20 Steps to better wireframing ](http://blog.teamtreehouse.com/20-steps-to-better-wireframing)
 - [Why prototyping beats wireframing.](https://the-pastry-box-project.net/leisa-reichelt/2012-october-23)
+- [Wireframing with pen and paper or on screen?](http://www.sarahevansdesign.co.uk/blog/2016-07-13-wireframing-with-pen-and-paper-or-on-screen)
 
 
 
