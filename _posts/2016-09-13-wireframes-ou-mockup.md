@@ -15,7 +15,9 @@ Bom até aí nenhuma novidade, certo? Enquanto o cliente enumera os requisitos, 
 
 ![Sketch nosso de cada dia!](https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-xlf1/v/t1.0-9/13428421_1198542513503633_4984712604594933393_n.jpg?oh=ce8560e7094eecd5173c5a9e9f47b81d&oe=58774A73&__gda__=1480413160_2725adb6bc0a8c2eddb594580f8340a8)
 
+
 #### Ferramentas para ser mais Ágil
+
 
 Sendo assim, já retorno para a estação de trabalho e começo a passar a limpo aqueles rasbicos que fiz e começo a criar um wireframe de "baixa/média-fidelidade", costumo usar o [Caccoo](http://cacoo.com/) como ferramenta de criação de wireframes, existem inúmeras como:
 
@@ -36,6 +38,8 @@ Com essa gama de recursos que a aplicação me oferece, eu consigo facilmente se
 
 Bem, até aqui falamos de colaboração, refatoração, insigth e feedback, veja que já começamos a tornar o processo que antes era apenas de uma única pessoa a propagar para uma cadeia de fatores e pessoas envolvidas para que o projeto flua de forma mais dinâmica e contínua!
 
+#### Wireframe vs Mock | Prós & Contras
+
 Como nem tudo são flores, já me deparei com equipe que somente o wireframe estático, não é viável, pois a equipe julga alguns pontos importantes, como: 
 
 - Mock navegavél
@@ -48,7 +52,6 @@ Para este caso, você deve já começar arregaçando as mangas e dando vida para
  - Botões
  - Tabelas
  - Forms
-
 
 Dica, recomendo fortemente que nessa etapa, adote um framework CSS para isto:
 
