@@ -6,6 +6,8 @@ categories: javascript
 ---
 # JavaScript - Fundamentos de Orientação a Objetos
 
+![Beatles and JavaScript, qual a ligação disso.](http://asteroid.art.br/wp-content/uploads/2016/01/post_beatles_0116.jpg)
+
 Pense em uma biblioteca, agora imagine cada livro da biblioteca, para que eu possa ter uma biblioteca é necessário que exista livros e desses livros, autores e uma editora, isso é o "básico" que toda biblioteca deve ter para que ela seja denominada de biblioteca.
 
 Agora e se quisermos transformar isso para o cenário da computação. Cada livro se trata de um objeto, essa abstração faz com que seja possivel que possamos adotar padrões que são caracteristicas do mundo real, assim como seu objeto e suas funções.
