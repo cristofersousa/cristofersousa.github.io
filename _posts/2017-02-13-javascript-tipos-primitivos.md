@@ -1,11 +1,9 @@
 --- 
 layout: post
-title: "JavaScript | Tipos Primitivos" 
+title: "JavaScript e sua parte Primitiva" 
 date: 2017-02-13 11:00:32 -0300 
 categories: javascript 
 ---
-# JavaScript e sua parte primitiva
-
 ![](https://jogorama.com.br/arquivos/noticias/2015/far-cry-primal-02.jpg)
 
 Bom o JavaScript é Orientado á objetos, existem 05 tipos:  `strings, number, boolean, null e undefined`, 
