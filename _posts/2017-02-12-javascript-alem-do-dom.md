@@ -1,9 +1,9 @@
 --- 
-layout: post title: "JavaScript além do DOM." 
+layout: post
+title: "JavaScript além do DOM." 
 date: 2017-02-12 18:15:32 -0300 
 categories: javascript 
 ---
-
 # JavaScript - Fundamentos de Orientação a Objetos
 
 Pense em uma biblioteca, agora imagine cada livro da biblioteca, para que eu possa ter uma biblioteca é necessário que exista livros e desses livros, autores e uma editora, isso é o "básico" que toda biblioteca deve ter para que ela seja denominada de biblioteca.
