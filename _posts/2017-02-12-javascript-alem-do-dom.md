@@ -42,14 +42,3 @@ Na programação o cenário é o mesmo, podemos assumir que um objeto é element
 
 Pense, todo livro possui sua estória e seu contexto, mas necessariamente você não precisa ler o livro todo para saber do que se trata, a contra-capa fornece essa informação, e como seria isso para a computação? Esse é o conceito de encapsulamento, o objeto deve expor somente o necessário, sem a necessidade de contar como algo foi realizado, você apenas o consome. ;)
 
-
-#### Tipos Primitivos em JavaScript
-
-Bom o JavaScript é Orientado á objetos, existem 05 tipos:  `strings, number, boolean, null e undefined`, os 3 primeiros informados conseguem ser representados como objetos, seja por criação ou transformação, que ocorrem durante o interpretador do JavaScript para que possamos ter acesso a determinados métodos da linguagem.
-
- A beleza do JavaScript está que tudo são objetos, são apenas associações de chave:valor, semelhante a Arrays associativos. O valor pode assumir desde estruturas simples como strings e números até estruturas complexas, como objetos ou até mesmo funções.
-
-
-Por que JavaScript é considerada uma linguagem rápida? O fato dela ser rápida é pelo motivo dela ser interpretada e não compilada como a maioria.  
-
-JavaScript possui dois tipos de objetos `Nativo` ( definido pelo ES ou criado pelo programador) e `Hospedeiro` (definidos pelo ambiente, browser insere seus objetos como windows e todos os objetos DOM)
