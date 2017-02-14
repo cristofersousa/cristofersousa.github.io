@@ -15,16 +15,12 @@ Levando em consideração medidas relativas _%, vh, vw, vmin e vmax_, irei fazer
 
 
 Hoje, falaremos sobre a propriedade `position`. Para quem viveu apenas á era Flex-box ou para quem sempre teve dúvidas sobre como
-funciona essa propriedade, agora é a hora de tirar essa pulga de trás da orelha, aí você pode me falar: 
+funciona essa propriedade.
 
-```
-   - Ahhhhh mas isso já é arcaico com Flexbox e GridCSS, por que eu vou querer entender isso?
-   - Colega, sistemas legados, demoram para refatorar ainda mais quando é layout que a galera morre de medo de fazer isso, principalmente      para quem pegou um WebMaster ou UI Developer que fazia a interface como se frita pastel! Vai por mim existe muito sistema para ser        refatorado na parte de interface! ;)  
-```
-   
-Basicamente essa propriedade serve para empilhar componentes e caixas "flutuantes" sobre a tela, isto é,
-ele fornece condições para você criar uma espécie de lego no browser. Essa propriedade pode assumir 04 valores possivéis
-`Static, Relative, Fixed e Absolute`, vamos ver uma á uma com exemplos práticos.
+Basicamente essa propriedade serve para empilhar componentes e caixas "flutuantes" sobre a tela, isto é, ela fornece condições para 
+que o desenvolvedor tenha plena condição de fazer uma espécie de lego no browser.
+
+Essa propriedade pode assumir 04 valores possivéis: _Static, Relative, Fixed e Absolute_.
 
 `Static:`
   o valor static é o valor padrão de todos os elementos HTML. Um elemento com position: static; não se posiciona de maneira especial, seria o mesmo que dizer que o elemento não tem posição definida ou então que um elemento com o atributo position definido seria posicionado.
