@@ -7,19 +7,24 @@ categories: css
 ![](https://pt.best-wallpaper.net/wallpaper/1920x1200/1202/Small-paper-boats-in-water_1920x1200.jpg)
 
 Quero falar sobre criação de layout com CSS como organizar os objetos no browser de forma correta e eficaz.
-Levando em consideração medidas relativas *** %, vh, vw, vmin e vmax ***, irei fazer uma série de 03 posts abordando como compor sua interface, usando propriedades que a W3C possui:
+Levando em consideração medidas relativas * %, vh, vw, vmin e vmax *, irei fazer uma série de 03 posts abordando como compor sua interface, usando propriedades que a W3C possui:
 
   - [Position](https://www.w3.org/TR/css-position-3/)
   - [FlexBox](https://www.w3.org/TR/css-flexbox-1/)
   - [GridCSS](https://www.w3.org/TR/css-grid-1/)
 
 
-Hoje, falaremos sobre a propriedade `position`. Para quem viveu apenas era Flex-box ou para quem sempre tem dúvidas sobre como
-funciona a propriedade position, agora é a hora de tirar essa pulga de trás da orelha.
+Hoje, falaremos sobre a propriedade `position`. Para quem viveu apenas á era Flex-box ou para quem sempre teve dúvidas sobre como
+funciona essa propriedade, agora é a hora de tirar essa pulga de trás da orelha, aí você pode me falar: 
 
+```
+   - Ahhhhh mas isso já é arcaico com Flexbox e GridCSS, por que eu vou querer entender isso?
+   - Colega, sistemas legados, demoram para refatorar ainda mais quando é layout que a galera morre de medo de fazer isso, principalmente      para quem pegou um WebMaster ou UI Developer que fazia a interface como se frita pastel! Vai por mim existe muito sistema para ser        refatorado na parte de interface! ;)  
+```
+   
 Basicamente essa propriedade serve para empilhar componentes e caixas "flutuantes" sobre a tela, isto é,
-ele fornece condições para você criar um lego ou tetris no browser de forma "fácil", essa propriedade pode assumir 04 valores possieis
-`Static, Relative, Fixed e Absolute`, vamos ver uma a uma com exemplos práticos.
+ele fornece condições para você criar uma espécie de lego no browser. Essa propriedade pode assumir 04 valores possivéis
+`Static, Relative, Fixed e Absolute`, vamos ver uma á uma com exemplos práticos.
 
 `Static:`
   o valor static é o valor padrão de todos os elementos HTML. Um elemento com position: static; não se posiciona de maneira especial, seria o mesmo que dizer que o elemento não tem posição definida ou então que um elemento com o atributo position definido seria posicionado.
@@ -51,4 +56,5 @@ Ex: Absolute
 }
 ``` 
 
-Da parte de positio é apenas isso? Parece que sim! ;) 
+Da parte de position é apenas isso? Parece que sim! ;) 
+Até a próxima! 
