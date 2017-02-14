@@ -7,7 +7,7 @@ categories: css
 ![](https://pt.best-wallpaper.net/wallpaper/1920x1200/1202/Small-paper-boats-in-water_1920x1200.jpg)
 
 Quero falar sobre criação de layout com CSS como organizar os objetos no browser de forma correta e eficaz.
-Levando em consideração medidas relativas * %, vh, vw, vmin e vmax *, irei fazer uma série de 03 posts abordando como compor sua interface, usando propriedades que a W3C possui:
+Levando em consideração medidas relativas _%, vh, vw, vmin e vmax_, irei fazer uma série de 03 posts abordando como compor sua interface, usando propriedades que a W3C possui:
 
   - [Position](https://www.w3.org/TR/css-position-3/)
   - [FlexBox](https://www.w3.org/TR/css-flexbox-1/)
