@@ -4,7 +4,7 @@ title: "CSS para Layout"
 date: 2017-02-14 16:10:32 -0300 
 categories: css 
 ---
-![](https://pt.best-wallpaper.net/wallpaper/1920x1200/1202/Small-paper-boats-in-water_1920x1200.jpg)
+![](http://www.pngpix.com/wp-content/uploads/2016/07/PNGPIX-COM-Paper-Boat-PNG-Transparent-Image.png)
 
 Quero falar sobre criação de layout com CSS como organizar os objetos no browser de forma correta e eficaz.
 Levando em consideração medidas relativas _%, vh, vw, vmin e vmax_, irei fazer uma série de 03 posts abordando como compor sua interface, usando propriedades que a W3C possui:
@@ -14,7 +14,7 @@ Levando em consideração medidas relativas _%, vh, vw, vmin e vmax_, irei fazer
   - [GridCSS](https://www.w3.org/TR/css-grid-1/)
 
 
-Hoje, falaremos sobre a propriedade `position`. Para quem viveu apenas á era Flex-box ou para quem sempre teve dúvidas sobre como
+Hoje, falaremos sobre a propriedade `position`. Para quem viveu apenas a era Flex-box ou para quem sempre teve dúvidas sobre como
 funciona essa propriedade.
 
 Basicamente essa propriedade serve para empilhar componentes e caixas "flutuantes" sobre a tela, isto é, ela fornece condições para 
@@ -31,8 +31,8 @@ Essa propriedade pode assumir 04 valores possivéis: _Static, Relative, Fixed e 
 `Fixed:`
   O valor fixed - é posicionado relativamente ao "viewport", isso significa que ele sempre ficará no mesmo lugar mesmo que haja rolagem na página. Assim como o relative, as propriedades top, right, bottom e left também são utilizadas.
 
-`Absolute:
-  O valor absolute é o mais complicado. Este valor se comporta como o fixed, porém tendo como referência a posição do elemento relativo mais próximo de onde está contido, ao invés do viewport. Se um elemento position:absolute não possuir elementos ancestrais posicionados relativamente, ele utilizará o body como referência.
+`Absolute:`
+  O valor absolute é o mais complicado. Este valor se comporta como o fixed, porém tendo como referência a posição do elemento relativo mais próximo de onde está contido, ao invés do viewport. Se um elemento position:absolute não possuir elementos ancestrais posicionados relativamente, ele utilizará o body como referência.
 
 ```
 Ex: Absolute 
