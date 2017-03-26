@@ -5,7 +5,7 @@ date: 2017-03-21 16:10:32 -0300
 categories: javascript
 ---
 
-![](http://www.legosse.com.br/lego/image/cache/data/LEGO_BRICK_MORE/10663_4-640x640.jpg)
+![](http://3.bp.blogspot.com/-M8WI0T7HHgQ/TrG1L0O3FtI/AAAAAAAAC2Y/9JJ1JNOUeGg/s1600/guindaste+2.png)
 
 
 Antes de entrarmos em Hoisting precisamos entender o que é o **Escopo** em JavaScript, basicamente o escopo de uma variável é a região do código-fonte  de seu programa em que ela está definida. Uma variável global tem escopo global, esta por sua vez fica definida em toda parte de seu código JavaScript, ou seja pode ser chamada a qualquer momento.
