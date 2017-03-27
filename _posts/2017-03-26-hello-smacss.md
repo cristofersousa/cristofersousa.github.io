@@ -40,7 +40,7 @@ Voltando ao SMACSS, falamos que basicamente seu conceito é fazer separação de
 **base** 
 > Seria seus arquivos base da sua aplicação, o que é comum para todo o seu layout como Reset e Plugins
 
-**layout **
+**layout**
 > Seria a parte da estrutura do seu projeto, aqui entrará o CSSGrids, FlexBox e Position, a parte de header, footer, section. 
 
 **module**
