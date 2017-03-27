@@ -5,7 +5,7 @@ date: 2017-03-26 16:10:32 -0300
 categories: css
 ---
 
-![](https://i.ytimg.com/vi/6co781JgoqQ/maxresdefault.jpg)
+![](https://cdn-images-1.medium.com/max/2000/1*CKsSt3HyLNbWHr0rb_2VAQ.png)
 
 Pensando em um cenário da qual o time não sabe como será o tamanho do projeto é notório que alguns dev's comecem a escrever CSS sem avaliar a longo prazo como isso poderá ficar e com terão que fazer uma nova re-escrita de CSS para conseguir facilitar o processo de manutenção das folhas de estilos do projeto.
 
