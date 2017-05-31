@@ -118,7 +118,7 @@ E para finalizar essa sessão de `arrays` vamos falar sobre `Matrizes ou Vetores
 
 ```
 var multidimencional = [[1,2,3],[4,5,6],[7,8,9]];
-console.log(multidimencional);
+console.log(multidimensional);
 ```
 
 É isso, dúvida, sugestão ou problema manda aí nos comentários que precisamos melhorar sempre!  ;)
