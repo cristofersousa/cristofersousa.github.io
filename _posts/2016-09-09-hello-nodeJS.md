@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hello JavaScript aka ES6!"
+title:  "Hello NodeJS!"
 date:   2016-09-09 18:10:32 -0300
 categories: javascript, node
 ---
