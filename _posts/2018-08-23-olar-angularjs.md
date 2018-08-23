@@ -2,7 +2,7 @@
 layout: post
 title: "AngularJs" 
 date: 2018-08-23 01:10:32 -0300 
-categories: javascript
+categories: javascript, angularjs, controllerAs, binding
 ---
 
 # Olar, AngularJS!?
@@ -47,7 +47,23 @@ AngularJS tem uma arquiteura MVC (Model View Controller) ou MVVM (Model-View-Vie
 de acordo com a implementação, ele também poderá ser considerado como uma `viewmodel` daí o modelo MVVM, por isso o 
 two way data binding.
 
+### Pontos fortes: 
 
+> $scope vs controllerAs
+Por que devemos deixar de usar o $scope? A partir da versão AngularJS 1.2 foi introduzido o controllerAs, motivo disso?
+Ele permite a definição  de variáveis na instância do controlador usando a palavra-chave `this` e fazer referência a estas variaveis por meio do controlador a partir do HTML.
+
+Precisamos fazer um "memorando" sobre o `this`.
+
+O this: é o `sudo` em JavaScript, ao invoca-lo você está dizendo necessariamente que uma função pode ser sobreescrita por qualquer função que seja chamada, além de que o this dentro e fora de uma função pode se referir a dois objetos ou escopos totalmente diferentes. Pensa na bagunça que isso pode virar um exemplo simples dois controladores que tragicamente possuem dois modelos (carro e pessoa) e necessariamente o desenvolvedor colocou `name` para a variavel delas, o que vai rolar, com isso? I N S A N I D A D E! 
+
+Por isso para que o escopo não se perca, recomenda-se como boa prática não adotar o $scope, use uma variavel proxy, no caso o [John Papa](https://johnpapa.net/angularjss-controller-as-and-the-vm-variable/) - usa no lugar de proxy a variavel vm, aqui nos projetos estou adotando `$ctrl`, faz mais sentido pois o desenvolvedor que olhar na view, aquele `ng-model=" $ctrl.name"`, já saberá que estou me referindo ao controller.
+ 
+Caso queira saber mais sobre Escopo e Hoisting, tem esse [artigo](https://medium.com/opensanca/hoisting-em-javascript-9f22b1f78448)!
+
+> ng-bind vs {{ }}
+
+A vatangem do ng-bind em relação a {{ }} (mustaches duplos) é que o AngularJS consometempo para inicializar e executar até que ele possa encontrar e substituir todas as chaves duplas do HTML. Isso, significa que durante alguns instante em que o naveador é iniciado, você poderá ver chaves duplas aparecendo na UI até que o AngularJS  tenha a oportunidade de entrar em ação e substituí-las. Isso ocorre somente na primeira carga da página, e não em visões carregadas posteriormente.
 
 
 - Controladores
