@@ -3,7 +3,7 @@
 layout: post
 title: "AngularJs" 
 date: 2018-08-23 01:10:32 -0300 
-categories: javascript, angularjs, scope, bind, controllerAs 
+categories: javascript
 ---
 # Olar, AngularJS!?
 
