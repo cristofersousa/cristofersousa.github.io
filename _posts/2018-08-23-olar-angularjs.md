@@ -1,7 +1,7 @@
 --- 
 layout: post
 title: "Olar, AngularJs" 
-date: 2018-08-23 01:10:32 -0300 
+date: 2018-08-25 12:10:32 -0300 
 categories: javascript, angularjs, controllerAs, binding
 ---
 
