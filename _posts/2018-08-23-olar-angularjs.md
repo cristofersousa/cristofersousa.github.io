@@ -5,13 +5,10 @@ date: 2018-08-25 12:10:32 -0300
 categories: javascript, angularjs, controllerAs, binding
 ---
 
-# Olar, AngularJS!?
-
 ![](https://portswigger.net/cms/images/70/b8/6d8685eb222c-article-xss-without-html-client-side-template-injection-angularjs-article.png)
 
-### AngularJS / Legado 
-
-Bem, nem tudo são flores estou trabalhando atualmente com manutenção em um monolito da qual sua stack no front-end atualmente é AngularJS versão 1.3 :neckbeard:.
+Olar, pessoas, tudo certo?
+Nem tudo são flores e estou trabalhando atualmente com manutenção em um monolito da qual sua stack no front-end atualmente é AngularJS versão 1.3 :neckbeard:.
 
 Eu já tinha trabalhado com Ember na [SHX](www.shx.com.br) e Vue [CasaeCafe.com](https://app.casaecafe.com/), até então um projeto com o famoso AngularJS ainda não havia pego de unhas e dentes, apenas havia tido um contato bem "hello world", bahhhh, estamos em 2018 e você trabalhando com AngularJS na [ContaAzul](www.contaazul.com), pois é, e posso ser sincero contigo, estou adorando isto.
 
@@ -71,7 +68,7 @@ Por isso para que o escopo não se perca, recomenda-se como boa prática não ad
  
 Caso queira saber mais sobre Escopo e Hoisting, tem esse [artigo](https://medium.com/opensanca/hoisting-em-javascript-9f22b1f78448)!
 
-> ng-bind vs {{ double mustache }}
+> ng-bind vs ` { { double mustache } } `
 
 A vatangem do ng-bind em relação a {{ }} (mustaches duplos) é que o AngularJS consometempo para inicializar e executar até que ele possa encontrar e substituir todas as chaves duplas do HTML. Isso, significa que durante alguns instante em que o naveador é iniciado, você poderá ver chaves duplas aparecendo na UI até que o AngularJS  tenha a oportunidade de entrar em ação e substituí-las. Isso ocorre somente na primeira carga da página, e não em visões carregadas posteriormente.
 
