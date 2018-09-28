@@ -8,7 +8,7 @@ categories: javascript, angularjs, controllerAs, binding
 ![](https://portswigger.net/cms/images/70/b8/6d8685eb222c-article-xss-without-html-client-side-template-injection-angularjs-article.png)
 
 Olar, pessoas, tudo certo?
-Bora fazer uma série sobre AngularJS, nem tudo são flores na vida de desenvolvedor web, ainda mais front-end. Atualmente estou lidando com manutenção em um monolito da qual sua stack no front-end atualmente é AngularJS versão 1.3 :neckbeard:.
+Bora fazer uma série sobre AngularJS, atualmente estou lidando com manutenção do monolito aqui na ContaAzul, na qual a stack atual é AngularJS versão 1.3.
 
 Eu já tinha trabalhado com [Ember](https://emberjs.com/) na [SHX](http://www.shx.com.br/site/) e [Vue](https://vuejs.org/) na [CasaeCafe.com](https://app.casaecafe.com/), até então um projeto com o famoso AngularJS ainda não havia pego de unhas e dentes, apenas havia tido um contato bem "hello world".
 
