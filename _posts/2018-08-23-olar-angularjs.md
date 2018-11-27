@@ -14,7 +14,7 @@ Eu já tinha trabalhado com [Ember](https://emberjs.com/) na [SHX](http://www.sh
 
 Bahhhh, estamos em 2018 e você trabalhando com AngularJS na [ContaAzul](https://app.contaazul.com/), pois é, e posso ser sincero contigo, estou adorando isto, estou vendo o porquê de algumas abordagens que os frameworks JavaScript mais atuais adotaram a partir do AngularJS e os ajustes que foram feito para não cair no mesmo problema que o AngularJs apresentou.
 
-Atualmente, estou no time que está fazendo a frente de um módulo de gestão contábil, da qual estou começando a adotar o conceito de [microfrontends](https://micro-frontends.org/) pois pretendo fazer a migração para Vue, como nosso produto possui mais de 34K de clientes, é uma migração minuciosa e cuidadosa que vamos fazer, o minimo de impacto para o cliente e grande valor para o desenvolvimento e para nossa stack, então a dica de inicio é, enxergue a oportunidade.  Como tenho que dar  manutenção em cima do monolito, essa stack basicamente se compoẽ das seguintes tecnologias:
+Atualmente, estou no time que está fazendo a frente de um módulo de gestão contábil, da qual estou começando a adotar o conceito de [microfrontends](https://micro-frontends.org/) pois pretendo fazer a migração para Vue, como nosso produto possui centenas de usúarios acessando, essa migração deve ser feita com cautela, o minimo de impacto para o cliente e grande valor para o desenvolvimento e para nossa stack, então a dica de inicio é, enxergue a oportunidade.  Como tenho que dar  manutenção em cima do monolito, essa stack basicamente se compoẽ das seguintes tecnologias:
  
  - ES5 
  - Less
