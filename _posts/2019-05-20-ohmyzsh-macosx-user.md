@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: "Terminal com Oh My ZSH" 
+title: "Terminal com Oh My ZSH para Mac" 
 date: 2019-05-20 11:00:32 -0300 
 categories: macosx, terminal, bash,
 ---
