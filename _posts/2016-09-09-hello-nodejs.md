@@ -67,16 +67,28 @@ Instalando o Node, por enquanto vamos começar com o processo de introdução ao
    > 1. Instale o Node (next, next e finish)
 
 
-*** Plataforma Linux/Mac ***
+*** Plataforma Linux ou Mac(via terminal) ***
 
     1. curl -sL https://deb.nodesource.com/setup_14.x | sudo -E bash
-    2. sudo apt-get install -y nodejs'''
+    2. sudo apt-get install -y nodejs
 
-##### Controle de versão para Node
 
-E se eu quiser trabalhar com várias versões do NODE? Hoje a versão atual é v6.5.0 mas vamos supor que estou em algum projeto que a equipe estava adotando a v4.5.0, afinal não seria problema pois a comunidade do Node oferece suporte para as versões antigas por até 20 anos! ;)
+#### Testando nosso ambiente
 
-Bom, e quem vamos usar nesse caso? Vamos usar uma lib que chama-se [N](https://github.com/mklement0/n-install), ela funciona para Linux/Mac, usuários da plataforma Windows devem adotar o [NVM ](http://nomadev.com.br/node-js-o-que-%C3%A9-nvm-e-como-gerenciar-vers%C3%B5es-do-node/).
+Bom, daqui para frente seguirei apenas com a plataforma Mac/Linux que é terminal, pessoas do Windows é so abrir o terminal(prompt de comando)  de vocês e seguir o processo!
+
+Chegou a hora do famoso, Hello World, abra o terminal e execute o código:
+
+> -  node
+- console.log('Hello World!');
+-  Hello World!
+
+
+##### Bônus: Controle de versão para Node
+
+E se eu quiser trabalhar com várias versões do Node?  Esse post foi escrito em 2016, a versão que usava era v6.5.0 mas vamos supor que estou em algum projeto que a equipe estava adotando a v4.5.0, afinal não seria problema pois a comunidade do Node oferece suporte para as versões antigas por até 20 anos! ;)
+
+Bom, para fazermos esse controle e termos diversas versões do Node instalado, vamos usar uma lib que chama-se [N](https://github.com/mklement0/n-install), ela funciona para Linux/Mac, usuários da plataforma Windows devem adotar o [NVM](http://nomadev.com.br/node-js-o-que-%C3%A9-nvm-e-como-gerenciar-vers%C3%B5es-do-node/).
 
 ** Plataforma Linux/Mac **
 
@@ -102,14 +114,5 @@ Pronto seu node, estará com a versão mais recente!
 
 > 2. next, next e finish
 
-#### Testando nosso ambiente
-
-Bom, daqui para frente seguirei apenas com a plataforma Mac/Linux que é terminal, pessoas do Windows é so abrir o terminal(prompt de comando)  de vocês e seguir o processo!
-
-Chegou a hora do famoso, Hello World, abra o terminal e execute o código:
-
-> -  node
-- console.log('Hello World!');
--  Hello World!
 
 Fim!
